@@ -21,33 +21,37 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 -Set Up the Active Directory Domain Services
+- Step 2 -Promote the Server to a Domain Controller
+- Step 3 -Configure Domain and Network Settings
+- Step 4 -Create and Manage User Accounts and Groups
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="775" height="591" alt="image" src="https://github.com/user-attachments/assets/23451d78-9557-40ee-b067-d588d25527d6" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot showcases the configuration screen for setting up a new Azure Virtual Machine. The VM is designated to host Active Directory, enabling centralized user management and authentication services in the cloud.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1023" height="548" alt="image" src="https://github.com/user-attachments/assets/ff002a8a-756d-471b-9568-750a6aa431e5" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here, the instructor is installing Active Directory Domain Services on the Azure VM. This crucial step sets up the server as a domain controller, allowing for the establishment of a Windows domain to manage users, groups, and devices.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="817" height="470" alt="image" src="https://github.com/user-attachments/assets/d355ad15-41bb-4207-ac20-e4f38f6310e5" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot captures the interface for adding users and managing groups in Active Directory. Proper configuration of users and groups is essential for effective permission management and security within the Azure environment.
+
+
 </p>
 <br />
